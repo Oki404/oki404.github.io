@@ -1,2 +1,1 @@
-const myHeading = document.querySelector('h1');
-myHeading.textContent = 'Amongus';
+alert( 'Hello, world!' );
