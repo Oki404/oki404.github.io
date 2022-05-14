@@ -1,9 +1,9 @@
-.header{
- color:brown;
+h1 {
+    color: lightblue;
 }
-body{
-    background-color: black;
+p {
+    color:lightblue; 
 }
-p{
-    color:brown;
+body {
+    background-color: gray;
 }
