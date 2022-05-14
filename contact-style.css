@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(138, 216, 242);
+    text-align: center;
+}
+li {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(138, 216, 242); 
+    text-align: center;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:#3e4444;
+}
+.button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #706f6f;
+  border:10px;
+  color: rgb(255, 255, 255);
+  padding: 8px 16px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 8px;
+  margin: auto;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: rgb(255, 255, 255);
+  cursor: pointer;
+  align-items: center;
+  width:20%;
+    margin-left:40%;
+    margin-right:40%;
+}
+.button:hover {
+    background-color: #3b3b3b;
+    color: rgb(255, 255, 255);
+  }
+@font-face {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    src: initial;
+  }
